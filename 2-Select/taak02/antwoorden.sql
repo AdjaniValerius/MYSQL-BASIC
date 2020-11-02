@@ -1,5 +1,5 @@
 -- Opdracht 1 
-
+SELECT * FROM jaar2015 WHERE rank=7
 -- Opdracht 2 
 
 -- Opdracht 3
