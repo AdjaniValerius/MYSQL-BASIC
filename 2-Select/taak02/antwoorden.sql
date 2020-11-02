@@ -1,7 +1,7 @@
 -- Opdracht 1 
 SELECT * FROM jaar2015 WHERE rank=7
 -- Opdracht 2 
-
+SELECT rank FROM jaar2016 WHERE country="netherlands"
 -- Opdracht 3
 
 -- Opdracht 4
