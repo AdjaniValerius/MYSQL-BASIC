@@ -5,7 +5,7 @@ SELECT rank FROM jaar2016 WHERE country="netherlands"
 -- Opdracht 3
 SELECT score FROM jaar2015 WHERE country="netherlands"
 -- Opdracht 4
-
+SELECT score FROM jaar2016 WHERE country="netherlands"
 -- Opdracht 5
 
 -- Opdracht 6 
